@@ -1,4 +1,3 @@
-const fix= {
-    fix:'fix',
+const master= {
     master:'mm'
 }
